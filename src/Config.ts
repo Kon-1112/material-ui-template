@@ -1,0 +1,1 @@
+export const WIDTH: number = 838;
